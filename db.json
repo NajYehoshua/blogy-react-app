@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "First Blog Post",
+      "subheading": "Lorem ipsum text will dominate the information world!",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi quia quam sapiente molestias in cupiditate ipsum reiciendis esse facilis ipsa?"
+    },
+    {
+      "id": 2,
+      "title": "Second Blog Post",
+      "subheading": "Lorem ipsum text will dominate the information world!",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi quia quam sapiente molestias in cupiditate ipsum reiciendis esse facilis ipsa?"
+    },
+    {
+      "id": 3,
+      "title": "Third Blog Post",
+      "subheading": "Lorem ipsum text will dominate the information world!",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi quia quam sapiente molestias in cupiditate ipsum reiciendis esse facilis ipsa?"
+    },
+    {
+      "id": 4,
+      "title": "Fourth Blog Post",
+      "subheading": "Lorem ipsum text will dominate the information world!",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi quia quam sapiente molestias in cupiditate ipsum reiciendis esse facilis ipsa?"
+    }
+  ]
+}
